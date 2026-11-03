@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7964706209465202322
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stepstone_3_{-7964706209465202322}
+  m_AudioClip: {fileID: 8300000, guid: b872110c2e207d949939dabf09385b59, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7954144390498381559
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stepstone_4_{-7954144390498381559}
+  m_AudioClip: {fileID: 8300000, guid: 9f46be2ccacd98a40ae3bdb22347acf6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7663770592995648216
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stepstone_2_{-7663770592995648216}
+  m_AudioClip: {fileID: 8300000, guid: aa0122c14ef9892418d2f07ff7cc24af, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4324505140148263981
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stepstone_6_{-4324505140148263981}
+  m_AudioClip: {fileID: 8300000, guid: 449d438848b0f384d93ac14530824a3b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4586793308244956500
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stepstone_1_{4586793308244956500}
+  m_AudioClip: {fileID: 8300000, guid: 9505124c00cb6eb44a414dc3110bbf3a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Step Sounds
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -2.1694946, y: 3.5254288}
+  m_PitchRandomizationRange: {x: -146.44069, y: 158.64418}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 4586793308244956500}
+  - {fileID: -7663770592995648216}
+  - {fileID: -7964706209465202322}
+  - {fileID: -7954144390498381559}
+  - {fileID: 9214500805052038528}
+  - {fileID: -4324505140148263981}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &9214500805052038528
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: stepstone_5_{9214500805052038528}
+  m_AudioClip: {fileID: 8300000, guid: 7e2791928b06d684f8a0d6484ee4f099, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
